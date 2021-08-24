@@ -1,0 +1,15 @@
+div{
+    display: inline;
+    align-content: center;
+    text-align: center;
+    }
+
+img{
+    padding-inline: 5px;
+    padding-left: 30px;
+}
+
+body{
+    background-color: cornflowerblue;
+    align-content: center;
+}
